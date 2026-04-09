@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Литература × Театр</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="header">
+  <div class="container header__inner">
+    <div class="brand">
+      <div class="brand__logo">LT</div>
+      <div class="brand__text">
+        <div class="brand__title">Литература × Театр</div>
+        <div class="brand__subtitle">Произведения по программе → постановки в театрах Москвы</div>
+      </div>
+    </div>
+
+    <nav class="tabs" id="tabs">
+      <button class="tab is-active" data-route="grade-9">9 класс</button>
+      <button class="tab" data-route="grade-10">10 класс</button>
+      <button class="tab" data-route="grade-11">11 класс</button>
+      <button class="tab" data-route="theatres">Инфо о театрах</button>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <div class="hero__card">
+      <div class="hero__eyebrow">Москва · школьная программа · театр</div>
+      <h1 class="hero__title">Произведения школьной программы в театрах Москвы</h1>
+      <p class="hero__text">
+        Выберите класс, откройте нужное произведение и найдите постановки,
+        которые помогут не только подготовиться к уроку, но и по-настоящему почувствовать текст.
+      </p>
+
+      <div class="hero__tags">
+        <button class="hero__tag" data-hero-route="grade-9">9 класс</button>
+        <button class="hero__tag" data-hero-route="grade-10">10 класс</button>
+        <button class="hero__tag" data-hero-route="grade-11">11 класс</button>
+        <button class="hero__tag" data-hero-route="theatres">Информация о театрах</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<main class="main">
+  <div class="container">
+    <div class="toolbar">
+      <input id="search" class="search" type="search" placeholder="Поиск по названию или автору…" />
+    </div>
+
+    <div id="view" class="view"></div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="container footer__inner">
+    <span>© Литература × Театр</span>
+    <span class="muted">Сайт-помощник для школьников</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "bednaya-liza",
+    "title": "Бедная Лиза",
+    "author": "Н. М. Карамзин",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "apollinaria", "performanceUrl": "https://afisha.events/moskva/karamzin-bednaia-liza-24-04-2026/" }
+    ]
+  },
+  {
+    "id": "gore-ot-uma",
+    "title": "Горе от ума",
+    "author": "А. С. Грибоедов",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "mossovet", "performanceUrl": "https://mossoveta.ru/performance/gore_ot_uma/" },
+      { "theatreId": "nikitskie-vorota", "performanceUrl": "https://afisha.yandex.ru/moscow/theatre/gore-bez-uma?source=place&refererSurface=selection" },
+      { "theatreId": "molodezhnyy-kamernyy", "performanceUrl": "https://www.afisha.ru/performance/griboedov-gore-ot-uma-1001978/" },
+      { "theatreId": "spesivtsev", "performanceUrl": "https://www.spesivcev.ru/spektakli/gore_ot_uma.html" }
+    ]
+  },
+  {
+    "id": "evgeniy-onegin",
+    "title": "Евгений Онегин",
+    "author": "А. С. Пушкин",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "mayakovsky", "performanceUrl": "https://www.afisha.ru/performance/evgeniy-onegin-311734/" },
+      { "theatreId": "dom-muzyki", "performanceUrl": "https://www.afisha.ru/performance/onegin-202728/" },
+      { "theatreId": "spesivtsev", "performanceUrl": "https://www.spesivcev.ru/spektakli/evgenij_i_onegin.html" },
+      { "theatreId": "vakhtangov", "performanceUrl": "https://vakhtangovtheatre.ru/events/9011" }
+    ]
+  },
+  {
+    "id": "geroy-nashego-vremeni",
+    "title": "Герой нашего времени",
+    "author": "М. Ю. Лермонтов",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "mossovet", "performanceUrl": "https://mossoveta.ru/performance/geroi/" },
+      { "theatreId": "apollinaria", "performanceUrl": "https://www.afisha.ru/performance/lermontov-geroy-nashego-vremeni-298734/" }
+    ]
+  },
+  {
+    "id": "myortvye-dushi",
+    "title": "Мёртвые души",
+    "author": "Н. В. Гоголь",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "vakhtangov", "performanceUrl": "https://vakhtangovtheatre.ru/events/37886" },
+      { "theatreId": "schoolclassic", "performanceUrl": "https://schoolclassic.ru/moscow/poster/mertvye-dushi-10153-15-03-2026-17-00-00/" },
+      { "theatreId": "teatr-uz", "performanceUrl": "https://teatr-uz.ru/play/mertvye-dushi" },
+      { "theatreId": "spesivtsev", "performanceUrl": "https://www.spesivcev.ru/spektakli/1016.html" },
+      { "theatreId": "teatr-v-kino", "performanceUrl": "https://teatr-v-kino.ru/mertviedushi" }
+    ]
+  },
+  {
+    "id": "shinel",
+    "title": "Шинель",
+    "author": "Н. В. Гоголь",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "apollinaria", "performanceUrl": "https://www.afisha.ru/performance/gogol-shinel-298726/" },
+      { "theatreId": "mxat-chekhov", "performanceUrl": "https://mxat.ru/repertuar/show/shinel/" },
+      { "theatreId": "gogol", "performanceUrl": "https://teatrgogolya.ru/performances/shinel" }
+    ]
+  },
+  {
+    "id": "gamlet",
+    "title": "Гамлет, принц Датский",
+    "author": "У. Шекспир",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "teatrarmii", "performanceUrl": "https://www.bilettorg.ru/show/598/" },
+      { "theatreId": "okolo", "performanceUrl": "https://www.okolo.ru/shows/gamlet/" },
+      { "theatreId": "malaya-bronnaya", "performanceUrl": "https://kinoreporter.ru/gamlet-v-teatre-na-maloi-bronnoi/amp/" },
+      { "theatreId": "lenkom", "performanceUrl": "https://lenkom.ru/shows/gamlet" }
+    ]
+  },
+  {
+    "id": "ayvengo",
+    "title": "Айвенго",
+    "author": "В. Скотт",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "storytelling", "performanceUrl": "https://www.afisha.ru/performance/ayvengo-310810/" }
+    ]
+  },
+  {
+    "id": "faust",
+    "title": "Фауст",
+    "author": "И. В. Гёте",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "novaya-opera", "performanceUrl": "https://novayaopera.ru/plays/opera/faust/" },
+      { "theatreId": "mayakovsky", "performanceUrl": "https://www.mayakovsky.ru/performance/faust/" },
+      { "theatreId": "taganka", "performanceUrl": "https://tagankateatr.ru/theater/archive_spectaklei/faust" },
+      { "theatreId": "novaya-opera", "performanceUrl": "https://www.afisha.ru/performance/faust-158451/" }
+    ]
+  },
+  {
+    "id": "sudba-cheloveka",
+    "title": "Судьба человека",
+    "author": "М. А. Шолохов",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "osobnyak-demidova", "performanceUrl": "https://osobnyak.show/sholohov" },
+      { "theatreId": "pushkin", "performanceUrl": "https://teatrpushkin.ru/spektakli/detail/sudba-cheloveka/" }
+    ]
+  },
+  {
+    "id": "matryonin-dvor",
+    "title": "Матрёнин двор",
+    "author": "А. И. Солженицын",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "vakhtangov", "performanceUrl": "https://vakhtangov.ru/show/matrenindvor/" },
+      { "theatreId": "mhatschool", "performanceUrl": "https://www.afisha.ru/performance/matrenin-dvor-207925/" }
+    ]
+  },
+  {
+    "id": "schedrin-skazki",
+    "title": "Сказки Салтыкова-Щедрина (по выбору)",
+    "author": "М. Е. Салтыков-Щедрин",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "satire", "performanceUrl": "https://satire.ru/repertoire/sny-malchika-skazki-schedrina" }
+    ]
+  },
+  {
+    "id": "obyknovennoe-chudo",
+    "title": "Обыкновенное чудо",
+    "author": "Е. Шварц",
+    "category": "grade-9",
+    "productions": [
+      { "theatreId": "vakhtangov", "performanceUrl": "https://vakhtangov.ru/show/ordinay_miracle/" }
+    ]
+  },
+
+  {
+    "id": "groza",
+    "title": "Гроза",
+    "author": "А. Н. Островский",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "apollinaria", "performanceUrl": "https://www.afisha.ru/performance/ostrovskiy-groza-1001984/" },
+      { "theatreId": "mhat", "performanceUrl": "https://art-theatre.ru/repertoire/groza/238996/" },
+      { "theatreId": "gogol", "performanceUrl": "https://teatrgogolya.ru/performances/groza-iskushenie" }
+    ]
+  },
+  {
+    "id": "oblomov",
+    "title": "Обломов",
+    "author": "И. А. Гончаров",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "mayakovsky", "performanceUrl": "https://www.mayakovsky.ru/performance/oblomov/" }
+    ]
+  },
+  {
+    "id": "otcy-i-deti",
+    "title": "Отцы и дети",
+    "author": "И. С. Тургенев",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "spesivtsev", "performanceUrl": "https://www.spesivcev.ru/spektakli/otczyi_i_deti.html" },
+      { "theatreId": "nationtheater", "performanceUrl": "https://www.nationtheater.com/spektakli/ottsy-i-deti/" },
+      { "theatreId": "mayakovsky", "performanceUrl": "https://www.mayakovsky.ru/performance/ottsy-i-synovya/" }
+    ]
+  },
+  {
+    "id": "komu-na-rusi-zhit-horosho",
+    "title": "Кому на Руси жить хорошо",
+    "author": "Н. А. Некрасов",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "ermolova-theatre", "performanceUrl": "https://www.ermolova.ru/repertoire/view/241/" },
+      { "theatreId": "gogolcenter", "performanceUrl": "https://gogolcenter.com.ru/events/komu-na-rusi-zhit-xorosho/index.html" },
+      { "theatreId": "spesivtsev", "performanceUrl": "https://www.spesivcev.ru/spektakli/komu_na_rusi_zhit_xorosho.html" }
+    ]
+  },
+  {
+    "id": "istoriya-odnogo-goroda",
+    "title": "История одного города",
+    "author": "М. Е. Салтыков-Щедрин",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "teatrpanova", "performanceUrl": "https://teatrpanova.ru/shows/istoriia-odnogo-goroda" }
+    ]
+  },
+  {
+    "id": "prestuplenie-i-nakazanie",
+    "title": "Преступление и наказание",
+    "author": "Ф. М. Достоевский",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "mossovet", "performanceUrl": "https://mossoveta.ru/performance/RRR/" },
+      { "theatreId": "mtkmo", "performanceUrl": "https://www.ticketland.ru/koncertnye-zaly/gbuk-mtkmo/raskolnikoff/" }
+    ]
+  },
+  {
+    "id": "voyna-i-mir",
+    "title": "Война и мир",
+    "author": "Л. Н. Толстой",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "vakhtangov", "performanceUrl": "https://www.ticketland.ru/teatry/teatr-imeni-evgeniya-vakhtangova/voyna-i-mir" },
+      { "theatreId": "spesivtsev", "performanceUrl": "https://www.spesivcev.ru/spektakli/vojna_i_mir.html" }
+    ]
+  },
+  {
+    "id": "levsha",
+    "title": "Левша",
+    "author": "Н. С. Лесков",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "nationtheater", "performanceUrl": "https://www.afisha.ru/performance/levsha-244599/" },
+      { "theatreId": "theatrecenter", "performanceUrl": "https://theatrecenter.ru/repertuar/levsha" }
+    ]
+  },
+  {
+    "id": "ocharovannyy-strannik",
+    "title": "Очарованный странник",
+    "author": "Н. С. Лесков",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "vakhtangov", "performanceUrl": "https://www.afisha.ru/performance/ocharovanniy-strannik-202571/" },
+      { "theatreId": "ermolova-theatre", "performanceUrl": "https://www.ermolova.ru/repertoire/view/140/" },
+      { "theatreId": "gogol", "performanceUrl": "https://teatrgogolya.ru/performances/soboryane" },
+      { "theatreId": "spesivtsev", "performanceUrl": "https://www.spesivcev.ru/spektakli/ocharovannyij_strannik.html" },
+      { "theatreId": "vakhtangov", "performanceUrl": "https://vakhtangovtheatre.ru/events/9053" }
+    ]
+  },
+  {
+    "id": "vishnyovyy-sad",
+    "title": "Вишнёвый сад",
+    "author": "А. П. Чехов",
+    "category": "grade-10",
+    "productions": [
+      { "theatreId": "mossovet", "performanceUrl": "https://mossoveta.ru/performance/Vishneviy_sad/" },
+      { "theatreId": "lenkom", "performanceUrl": "https://www.ticketland.ru/teatry/teatr-lenkom/vishnyovyy-sad/" }
+    ]
+  },
+
+  {
+    "id": "granatovyy-braslet",
+    "title": "Гранатовый браслет",
+    "author": "А. И. Куприн",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "mikhalkov12", "performanceUrl": "https://mikhalkov12.ru/performances/proekty/granatovyy-braslet/" },
+      { "theatreId": "mikhalkov12", "performanceUrl": "https://bilet.mos.ru/event/310340257/" }
+    ]
+  },
+  {
+    "id": "olesya",
+    "title": "Олеся",
+    "author": "А. И. Куприн",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "etcetera", "performanceUrl": "https://et-cetera.ru/performance/olesya/" }
+    ]
+  },
+  {
+    "id": "poedinok",
+    "title": "Поединок",
+    "author": "А. И. Куприн",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "snachalateatr", "performanceUrl": "https://snachalateatr.ru/poedinok" }
+    ]
+  },
+  {
+    "id": "slon",
+    "title": "Слон",
+    "author": "А. И. Куприн",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "mospuppets", "performanceUrl": "https://mospuppets.ru/portfolio-item/slon/" }
+    ]
+  },
+  {
+    "id": "sulamif",
+    "title": "Суламиф",
+    "author": "А. И. Куприн",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "teatrarmii", "performanceUrl": "https://teatrarmii.ru/spectacles/sulamif/" }
+    ]
+  },
+  {
+    "id": "na-dne",
+    "title": "На дне",
+    "author": "М. Горький",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "modern-theatre", "performanceUrl": "https://www.modern-theatre.ru/repertuar/na-dne.html" }
+    ]
+  },
+  {
+    "id": "chistyy-ponedelnik",
+    "title": "Чистый понедельник",
+    "author": "И. А. Бунин",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "satire", "performanceUrl": "https://satire.ru/repertoire/chistyy-ponedelnik" }
+    ]
+  },
+  {
+    "id": "legkoe-dyhanie",
+    "title": "Лёгкое дыхание",
+    "author": "И. А. Бунин",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "nabereg", "performanceUrl": "https://nabereg.ru/repertoire/6/" }
+    ]
+  },
+  {
+    "id": "tolko-tot-holodnyy-osenniy-vecher",
+    "title": "Только тот холодный осенний вечер",
+    "author": "И. А. Бунин",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "okolo", "performanceUrl": "https://bilet.mos.ru/event/349974257/" }
+    ]
+  },
+
+  {
+    "id": "drakon",
+    "title": "Дракон",
+    "author": "Е. Шварц",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "pokrovka", "performanceUrl": "https://pokrovka-teatr.ru/dragon" },
+      { "theatreId": "puppet", "performanceUrl": "https://puppet.ru/performances/drakon" },
+      { "theatreId": "mxat-chekhov", "performanceUrl": "https://mxat.ru/repertuar/show/dragon/" }
+    ]
+  },
+
+  {
+    "id": "starshiy-syn",
+    "title": "Старший сын",
+    "author": "А. В. Вампилов",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "mxat-chekhov", "performanceUrl": "https://mxat.ru/repertuar/show/elder_son/" },
+      { "theatreId": "gogol", "performanceUrl": "https://teatrgogolya.ru/performances/starshiy-syn" },
+      { "theatreId": "gubernsky", "performanceUrl": "https://m-g-t.ru/performance/starshiy-syn/" },
+      { "theatreId": "sovremennik", "performanceUrl": "https://www.ticketland.ru/teatry/moskovskiy-teatr-sovremennik/starshiy-syn/" }
+    ]
+  },
+
+  {
+    "id": "utinaya-ohota",
+    "title": "Утиная охота",
+    "author": "А. В. Вампилов",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "ermolova-theatre", "performanceUrl": "https://www.ermolova.ru/repertoire/view/93/" },
+      { "theatreId": "vakhtangov", "performanceUrl": "https://vakhtangov.ru/show/utinaya-ohota/" },
+      { "theatreId": "taganka", "performanceUrl": "https://www.ticketland.ru/teatry/teatr-na-taganke/utinaya-okhota-taganka/" },
+      { "theatreId": "mxat-chekhov", "performanceUrl": "https://mxat.ru/repertuar/show/duck/" },
+      { "theatreId": "etcetera", "performanceUrl": "https://et-cetera.ru/performance/utinaya-okhota/" },
+      { "theatreId": "pokrovka", "performanceUrl": "https://pokrovka-teatr.ru/duckhunt" }
+    ]
+  },
+
+  {
+    "id": "pyat-vecherov",
+    "title": "Пять вечеров",
+    "author": "А. Володин",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "trubnoy", "performanceUrl": "https://www.ticketland.ru/teatry/teatr-na-trubnoy/pyat-vecherov/" }
+    ]
+  },
+
+  {
+    "id": "master-i-margarita",
+    "title": "Мастер и Маргарита",
+    "author": "М. А. Булгаков",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "malaya-ordynka", "performanceUrl": "https://www.afisha.ru/performance/master-i-margarita-istoriya-lyubvi-299552/" },
+      { "theatreId": "nationtheater", "performanceUrl": "https://www.nationtheater.com/spektakli/master-i-margarita/" },
+      { "theatreId": "mxat-chekhov", "performanceUrl": "https://mxat.ru/repertuar/show/master/" }
+    ]
+  },
+
+  {
+    "id": "idiot",
+    "title": "Идиот",
+    "author": "Ф. М. Достоевский",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "mossovet", "performanceUrl": "https://mossoveta.ru/performance/idiot/" },
+      { "theatreId": "apollinaria", "performanceUrl": "https://www.afisha.ru/performance/dostoevskiy-idiot-298672/" },
+      { "theatreId": "mxat-chekhov", "performanceUrl": "https://mxat.ru/repertuar/show/idiots/" },
+      { "theatreId": "vakhtangov", "performanceUrl": "https://vakhtangovtheatre.ru/events/279979" }
+    ]
+  },
+
+  {
+    "id": "anna-karenina",
+    "title": "Анна Каренина",
+    "author": "Л. Н. Толстой",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "teatr-estrada", "performanceUrl": "https://teatr-estrada.ru/afisha/karenina" },
+      { "theatreId": "operetta", "performanceUrl": "https://www.afisha.ru/performance/anna-karenina-118228/" },
+      { "theatreId": "nikitskie-vorota", "performanceUrl": "https://afisha.yandex.ru/moscow/theatre_show/anna-karenina-lecture-u-nikitskikh-vorot?source=place&refererSurface=selection" },
+      { "theatreId": "nationtheater", "performanceUrl": "https://www.nationtheater.com/spektakli/karenina-process/" },
+      { "theatreId": "maly", "performanceUrl": "https://www.maly.ru/spectacle/view?name=annakarenina" }
+    ]
+  },
+
+  {
+    "id": "chaika",
+    "title": "Чайка",
+    "author": "А. П. Чехов",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "mossovet", "performanceUrl": "https://mossoveta.ru/performance/chaika/" },
+      { "theatreId": "mxat-chekhov", "performanceUrl": "https://mxat.ru/repertuar/show/seagull_2024/" },
+      { "theatreId": "fomenki", "performanceUrl": "https://www.fomenki.ru/performance/seagull/" },
+      { "theatreId": "malaya-bronnaya", "performanceUrl": "https://mbronnaya.ru/performances/chayka/" }
+    ]
+  },
+
+  {
+    "id": "revizor",
+    "title": "Ревизор",
+    "author": "Н. В. Гоголь",
+    "category": "grade-11",
+    "productions": [
+      { "theatreId": "sovremennik", "performanceUrl": "https://www.ticketland.ru/teatry/moskovskiy-teatr-sovremennik/revizor" },
+      { "theatreId": "spesivtsev", "performanceUrl": "https://www.spesivcev.ru/spektakli/revizor.html" },
+      { "theatreId": "rosta", "performanceUrl": "https://www.ticketland.ru/teatry/gauk-g-moskvy-teatr-rosta-v-caricyno/spektakl-revizor/" },
+      { "theatreId": "etcetera", "performanceUrl": "https://et-cetera.ru/performance/revizor-versiya/" }
+    ]
+  }
+]
