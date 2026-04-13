@@ -347,7 +347,8 @@
       { "theatreId": "mxat-chekhov", "performanceUrl": "https://mxat.ru/repertuar/show/elder_son/" },
       { "theatreId": "gogol", "performanceUrl": "https://teatrgogolya.ru/performances/starshiy-syn" },
       { "theatreId": "gubernsky", "performanceUrl": "https://m-g-t.ru/performance/starshiy-syn/" },
-      { "theatreId": "sovremennik", "performanceUrl": "https://www.ticketland.ru/teatry/moskovskiy-teatr-sovremennik/starshiy-syn/" }
+      { "theatreId": "sovremennik", "performanceUrl": "https://www.ticketland.ru/teatry/moskovskiy-teatr-sovremennik/starshiy-syn/" },
+      { "theatreId": "mayakovsky", "theatre": "Театр Маяковского", "url": "https://www.mayakovsky.ru/performance/starshiy-syn/"}
     ]
   },
 
